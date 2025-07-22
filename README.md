@@ -1,4 +1,4 @@
-# Scientific Hand Movement Analysis
+# Grasping Emotion: A Vision-Based Study of Hand Movement and Feeling
 
 ![Hand Analysis Demo](analysis_demo.jpg)
 
