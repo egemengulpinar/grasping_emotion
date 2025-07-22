@@ -1,6 +1,14 @@
 # Scientific Hand Movement Analysis
 
+![Hand Analysis Demo](analysis_demo.jpg)
+
 This project provides a comprehensive system for analyzing hand movements from videos using MediaPipe. It's designed to extract detailed kinematic data and generate scientific insights, particularly for comparing subject groups (e.g., "SEE" vs. "BLIND").
+
+## 📂 Dataset and Results
+
+The complete dataset, including all video files and analysis outputs, is available on Google Drive:
+
+[**Access the Full Dataset and Results Here**](https://drive.google.com/drive/folders/1-f6wlr-9i6OWDBLKbz-6jn64RYhp4dAC?usp=sharing)
 
 ## 🚀 Quick Start
 
