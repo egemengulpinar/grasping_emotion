@@ -1,0 +1,18 @@
+SCIENTIFIC PAPER ANALYSIS SUMMARY
+==================================================
+
+Analysis Date: 2025-07-03 21:17:01
+Total Participants: 20
+Total Videos Analyzed: 100
+
+Files Generated:
+- avg_main_analysis.png: Overall grasping frequency by object
+- avg_grasping_analysis.png: Movement category distribution with percentages
+- avg_summary_table.png: Enhanced summary statistics table
+- group_main_analysis.png: SEE vs BLIND comparison
+- group_emotion_analysis.png: Emotion distribution by group
+- group_comfort_analysis.png: Comfort level comparison
+- scientific_analysis_report.md: Hypothesis-focused scientific report
+- comprehensive_participant_summary.txt: Detailed participant statistics
+- high_arousal_emotions_table.tex: LaTeX table for high-arousal emotions analysis
+- arousal_comparison_table.tex: LaTeX table comparing high vs low arousal emotions

@@ -1,0 +1,86 @@
+COMPREHENSIVE PARTICIPANT SUMMARY
+================================================================================
+
+Total Participants: 20
+Total Videos Analyzed: 100
+Total Grasping Events: 45,634
+
+Overall Statistics:
+  - Average Grasping Frequency: 12.02 ± 7.27 events/s
+  - Average Hand Detection Time: 34.87 ± 31.62 seconds
+  - Average Max Velocity: 2.91 ± 4.11 px/frame
+
+
+GROUP COMPARISONS:
+----------------------------------------
+
+Visual Group (n=10):
+  - Average Grasping Frequency: 12.74 ± 6.66 events/s
+  - Total Grasping Events: 22,393
+
+Non-Visual Group (n=10):
+  - Average Grasping Frequency: 11.31 ± 7.84 events/s
+  - Total Grasping Events: 23,241
+
+
+OBJECT-SPECIFIC ANALYSIS:
+----------------------------------------
+
+Box:
+  - Average Frequency: 10.28 ± 5.66 events/s
+  - SEE Group: 10.30 events/s
+  - BLIND Group: 10.27 events/s
+  - Most Common Emotion: Neutral
+  - Average Comfort Score: 3.75/5.0
+
+Donut:
+  - Average Frequency: 7.02 ± 6.41 events/s
+  - SEE Group: 7.22 events/s
+  - BLIND Group: 6.82 events/s
+  - Most Common Emotion: Disgust
+  - Average Comfort Score: 1.70/5.0
+
+Pig:
+  - Average Frequency: 9.48 ± 5.06 events/s
+  - SEE Group: 11.70 events/s
+  - BLIND Group: 7.25 events/s
+  - Most Common Emotion: Happiness
+  - Average Comfort Score: 4.35/5.0
+
+Spider:
+  - Average Frequency: 18.09 ± 8.00 events/s
+  - SEE Group: 19.00 events/s
+  - BLIND Group: 17.17 events/s
+  - Most Common Emotion: Fear
+  - Average Comfort Score: 1.90/5.0
+
+Toy:
+  - Average Frequency: 15.24 ± 5.17 events/s
+  - SEE Group: 15.47 events/s
+  - BLIND Group: 15.02 events/s
+  - Most Common Emotion: Neutral
+  - Average Comfort Score: 3.15/5.0
+
+
+INDIVIDUAL PARTICIPANT SUMMARY:
+----------------------------------------
+ID01 (SEE): 13.5 events/s, 3879 total events, 307.2s detection time
+ID02 (SEE): 10.4 events/s, 1016 total events, 74.5s detection time
+ID03 (SEE): 12.8 events/s, 976 total events, 90.3s detection time
+ID04 (SEE): 12.4 events/s, 1456 total events, 113.6s detection time
+ID05 (SEE): 15.5 events/s, 2124 total events, 121.5s detection time
+ID06 (SEE): 15.4 events/s, 976 total events, 62.2s detection time
+ID07 (SEE): 11.8 events/s, 2608 total events, 214.0s detection time
+ID08 (SEE): 8.8 events/s, 514 total events, 53.2s detection time
+ID09 (SEE): 14.6 events/s, 7731 total events, 587.9s detection time
+ID10 (SEE): 12.2 events/s, 1113 total events, 81.5s detection time
+ID11 (BLIND): 13.6 events/s, 2003 total events, 148.8s detection time
+ID12 (BLIND): 14.6 events/s, 2081 total events, 120.0s detection time
+ID13 (BLIND): 12.4 events/s, 2875 total events, 230.6s detection time
+ID14 (BLIND): 6.0 events/s, 702 total events, 139.2s detection time
+ID15 (BLIND): 19.3 events/s, 6445 total events, 303.5s detection time
+ID16 (BLIND): 7.4 events/s, 1973 total events, 273.9s detection time
+ID17 (BLIND): 17.1 events/s, 2949 total events, 176.0s detection time
+ID18 (BLIND): 1.4 events/s, 96 total events, 79.6s detection time
+ID19 (BLIND): 6.8 events/s, 802 total events, 114.4s detection time
+ID20 (BLIND): 14.4 events/s, 3315 total events, 194.7s detection time

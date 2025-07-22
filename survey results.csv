@@ -1,0 +1,101 @@
+EXP,Participant ID,Object,Emotion Felt,Intensity,Familiarity,Comfort During Grasping,Would React Same Way Again
+SEE,ID01,Dog Toy,Neutral,Moderate,Somewhat familiar,Neutral,Maybe
+,ID01,Donut,Neutral,Moderate,Somewhat familiar,Uncomfortable,No
+,ID01,Plush,Happiness,Low,Somewhat familiar,Very comfortable,No
+,ID01,Spider,Fear,High,Very familiar,Uncomfortable,Maybe
+,ID01,Cube,Neutral,Low,Very familiar,Comfortable,Yes
+,ID02,Dog Toy,Neutral,Low,Very familiar,Neutral,No
+,ID02,Donut,Disgust,High,Very familiar,Uncomfortable,No
+,ID02,Plush,Happiness,Moderate,Not familiar at all,Comfortable,Yes
+,ID02,Spider,Sadness,Moderate,Very familiar,Uncomfortable,Yes
+,ID02,Cube,Nervousness,Low,Very familiar,Neutral,Maybe
+,ID03,Dog Toy,Neutral,Moderate,Not familiar at all,Neutral,No
+,ID03,Donut,Disgust,Moderate,Not familiar at all,Very uncomfortable,No
+,ID03,Plush,Happiness,Moderate,Very familiar,Very comfortable,Maybe
+,ID03,Spider,Fear,High,Very familiar,Very uncomfortable,Maybe
+,ID03,Cube,Neutral,Low,Very familiar,Comfortable,No
+,ID04,Dog Toy,Sadness,High,Very familiar,Uncomfortable,Yes
+,ID04,Donut,Happiness,Moderate,Somewhat familiar,Uncomfortable,Maybe
+,ID04,Plush,Happiness,Low,Somewhat familiar,Comfortable,No
+,ID04,Spider,Fear,High,Somewhat familiar,Uncomfortable,No
+,ID04,Cube,Nervousness,High,Very familiar,Very comfortable,Maybe
+,ID05,Dog Toy,Happiness,Moderate,Somewhat familiar,Very comfortable,Yes
+,ID05,Donut,Neutral,Low,Very familiar,Uncomfortable,Maybe
+,ID05,Plush,Happiness,Low,Somewhat familiar,Very comfortable,Maybe
+,ID05,Spider,Fear,Low,Very familiar,Very uncomfortable,Maybe
+,ID05,Cube,Surprise,Low,Very familiar,Neutral,Maybe
+,ID06,Dog Toy,Neutral,Low,Very familiar,Uncomfortable,Maybe
+,ID06,Donut,Happiness,Moderate,Very familiar,Very uncomfortable,No
+,ID06,Plush,Happiness,Low,Not familiar at all,Very comfortable,No
+,ID06,Spider,Disgust,High,Not familiar at all,Neutral,Maybe
+,ID06,Cube,Neutral,Moderate,Somewhat familiar,Very comfortable,Maybe
+,ID07,Dog Toy,Fear,High,Very familiar,Uncomfortable,Maybe
+,ID07,Donut,Disgust,High,Very familiar,Very uncomfortable,No
+,ID07,Plush,Surprise,Moderate,Very familiar,Very comfortable,Maybe
+,ID07,Spider,Nervousness,Moderate,Very familiar,Very uncomfortable,No
+,ID07,Cube,Neutral,High,Somewhat familiar,Very comfortable,Maybe
+,ID08,Dog Toy,Happiness,Moderate,Very familiar,Neutral,Maybe
+,ID08,Donut,Boredom,High,Very familiar,Very uncomfortable,No
+,ID08,Plush,Happiness,High,Not familiar at all,Neutral,Maybe
+,ID08,Spider,Nervousness,Moderate,Very familiar,Neutral,Yes
+,ID08,Cube,Nervousness,High,Very familiar,Very comfortable,No
+,ID09,Dog Toy,Fear,High,Very familiar,Very comfortable,No
+,ID09,Donut,Boredom,Low,Very familiar,Uncomfortable,No
+,ID09,Plush,Happiness,Low,Very familiar,Comfortable,Yes
+,ID09,Spider,Nervousness,Moderate,Very familiar,Very uncomfortable,No
+,ID09,Cube,Neutral,Moderate,Very familiar,Comfortable,No
+,ID10,Dog Toy,Surprise,High,Very familiar,Very comfortable,Maybe
+,ID10,Donut,Sadness,Moderate,Very familiar,Uncomfortable,Yes
+,ID10,Plush,Happiness,Moderate,Somewhat familiar,Comfortable,Yes
+,ID10,Spider,Fear,High,Very familiar,Uncomfortable,Yes
+,ID10,Cube,Surprise,Moderate,Very familiar,Neutral,Yes
+BLIND,ID11,Dog Toy,Happiness,Moderate,Very familiar,Uncomfortable,No
+,ID11,Donut,Neutral,Low,Very familiar,Uncomfortable,No
+,ID11,Plush,Neutral,Moderate,Somewhat familiar,Comfortable,No
+,ID11,Spider,Disgust,High,Somewhat familiar,Uncomfortable,Maybe
+,ID11,Cube,Neutral,Low,Very familiar,Comfortable,Yes
+,ID12,Dog Toy,Boredom,Moderate,Very familiar,Uncomfortable,Yes
+,ID12,Donut,Disgust,Moderate,Not familiar at all,Uncomfortable,Maybe
+,ID12,Plush,Happiness,Low,Somewhat familiar,Neutral,Yes
+,ID12,Spider,Fear,High,Somewhat familiar,Uncomfortable,Maybe
+,ID12,Cube,Nervousness,Moderate,Very familiar,Neutral,Yes
+,ID13,Dog Toy,Happiness,Moderate,Very familiar,Very comfortable,Maybe
+,ID13,Donut,Disgust,Moderate,Not familiar at all,Very uncomfortable,No
+,ID13,Plush,Surprise,Low,Not familiar at all,Very comfortable,Maybe
+,ID13,Spider,Frustration,High,Very familiar,Neutral,Yes
+,ID13,Cube,Neutral,Low,Not familiar at all,Neutral,Maybe
+,ID14,Dog Toy,Sadness,Low,Not familiar at all,Uncomfortable,No
+,ID14,Donut,Disgust,Moderate,Somewhat familiar,Uncomfortable,Yes
+,ID14,Plush,Surprise,Low,Very familiar,Very comfortable,No
+,ID14,Spider,Nervousness,High,Somewhat familiar,Neutral,Yes
+,ID14,Cube,Neutral,Low,Not familiar at all,Neutral,No
+,ID15,Dog Toy,Neutral,Moderate,Somewhat familiar,Neutral,No
+,ID15,Donut,Happiness,High,Somewhat familiar,Uncomfortable,Maybe
+,ID15,Plush,Happiness,Moderate,Somewhat familiar,Very comfortable,Yes
+,ID15,Spider,Fear,Moderate,Not familiar at all,Very uncomfortable,Yes
+,ID15,Cube,Confusion,High,Not familiar at all,Neutral,Maybe
+,ID16,Dog Toy,Sadness,Moderate,Somewhat familiar,Very comfortable,Maybe
+,ID16,Donut,Disgust,High,Not familiar at all,Very uncomfortable,Yes
+,ID16,Plush,Happiness,High,Not familiar at all,Comfortable,Yes
+,ID16,Spider,Nervousness,Moderate,Somewhat familiar,Uncomfortable,Yes
+,ID16,Cube,Neutral,Moderate,Somewhat familiar,Neutral,Yes
+,ID17,Dog Toy,Frustration,High,Very familiar,Uncomfortable,Yes
+,ID17,Donut,Disgust,High,Very familiar,Neutral,Maybe
+,ID17,Plush,Happiness,Moderate,Very familiar,Very comfortable,Yes
+,ID17,Spider,Surprise,High,Very familiar,Very uncomfortable,Maybe
+,ID17,Cube,Neutral,Low,Not familiar at all,Neutral,Maybe
+,ID18,Dog Toy,Frustration,High,Very familiar,Uncomfortable,Yes
+,ID18,Donut,Disgust,Moderate,Somewhat familiar,Uncomfortable,Maybe
+,ID18,Plush,Surprise,Moderate,Somewhat familiar,Neutral,No
+,ID18,Spider,Neutral,Low,Not familiar at all,Uncomfortable,No
+,ID18,Cube,Nervousness,Moderate,Not familiar at all,Comfortable,Maybe
+,ID19,Dog Toy,Happiness,High,Very familiar,Uncomfortable,No
+,ID19,Donut,Disgust,High,Somewhat familiar,Very uncomfortable,No
+,ID19,Plush,Surprise,High,Very familiar,Comfortable,Maybe
+,ID19,Spider,Nervousness,Moderate,Very familiar,Uncomfortable,Yes
+,ID19,Cube,Neutral,Low,Very familiar,Neutral,Yes
+,ID20,Dog Toy,Neutral,Low,Very familiar,Very comfortable,Yes
+,ID20,Donut,Disgust,Moderate,Very familiar,Uncomfortable,Maybe
+,ID20,Plush,Happiness,High,Very familiar,Very comfortable,Yes
+,ID20,Spider,Boredom,High,Not familiar at all,Uncomfortable,Maybe
+,ID20,Cube,Neutral,Low,Not familiar at all,Very comfortable,Yes

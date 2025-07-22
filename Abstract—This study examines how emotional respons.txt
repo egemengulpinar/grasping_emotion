@@ -1,0 +1,70 @@
+Abstract—This study examines how emotional responses to dif-
+ferent objects are reflected in hand movements during grasping.
+Using a smartphone camera with MediaPipe and OpenCV, we
+recorded hand kinematics from 20 participants as they naturally
+grasped five objects (cube, donut, pig toy, spider toy, plush). Half
+of the participants saw the objects before grasping; the other half
+did not.
+After each grasp, participants completed a short emotional
+survey. We tested whether emotional responses influence grasp
+patterns and whether high-arousal emotions (e.g., fear) lead to
+faster, more forceful movements. The findings aim to reveal
+how emotion is expressed physically, using accessible tools for
+behavioral analysis.
+Index Terms—component, formatting, style, styling, insert
+I. INTRODUCTION
+The human hand is not merely a tool for physical inter-
+action but also a subtle medium of emotional expression.
+Prior research has demonstrated that hand kinematics are not
+only responsive to object features such as weight, texture,
+and temperature but are also influenced by the emotional
+context in which interaction occurs. While foundational studies
+such as Lederman and Klatzky [1] have shown that specific
+exploratory hand movements are associated with the extraction
+of object properties during haptic recognition, relatively few
+studies have examined how emotional valence modulates nat-
+ural grasping behavior, particularly in real-life, unconstrained
+interactions.
+Understanding the emotional component of grasping is
+crucial, especially in domains such as social robotics, affective
+computing, rehabilitation, and human-computer interaction,
+where affect-sensitive physical interaction is key. The interplay
+between emotion and action has been explored through facial
+expressions, vocal cues, and body posture, yet the nuanced ex-
+pressiveness embedded in hand movements—especially during
+functional acts like grasping—remains under-investigated.
+In this work, we aim to bridge this gap by studying how
+natural emotional responses to various objects are reflected
+in hand movement kinematics during grasping. We employed
+Identify applicable funding agency here. If none, delete this.
+a non-intrusive method using a regular smartphone camera
+in combination with MediaPipe and OpenCV to track and
+analyze hand motion, allowing us to collect data in a nat-
+uralistic, accessible manner. Participants interacted with five
+different objects—a soft plush toy, a cube, a slime-like object,
+a fake spider, and a pig toy—each designed to evoke a distinct
+emotional response (e.g., comfort, neutrality, disgust, fear,
+amusement). Emotional feedback was collected through brief
+surveys after each grasp, enabling us to link movement patterns
+with subjective emotional states.
+Our study is guided by two main research questions:
+1) Do different emotionally evocative objects produce sig-
+nificantly different hand kinematics during grasping?
+2) Does the emotional arousal level associated with an
+object influence the dynamism of grasping movements
+(e.g., speed, grip aperture, acceleration)?
+These questions are investigated under two experimental
+conditions: one in which participants were blindfolded (to
+isolate tactile perception) and one in which they viewed the
+object before grasping it (to include visual-emotional antici-
+pation). This design allows us to evaluate both the conscious
+and subconscious influence of emotion on hand movement.
+The remainder of the paper is structured as follows: In
+Section II, we discuss related work on emotional expression
+in hand movement and haptic perception. Section ?? details
+our study design, including hypotheses, setup, data collection
+methods, and feature extraction. Section ?? presents our re-
+sults. In Section ??, we discuss the implications of our findings
+in the broader context of affective computing and embodied
+emotion. Finally, Section ?? concludes the paper with key
+insights and directions for future work.

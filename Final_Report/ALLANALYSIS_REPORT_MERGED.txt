@@ -1,0 +1,2359 @@
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 319.47 seconds
+   • Total hand detection time: 307.22 seconds
+   • Analysis date: 2025-07-02 06:41:41
+   • Object types: Id1/Box, Id1/Donut, Id1/Pig, Id1/Spider, Id1/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 3879
+   • Average grasping frequency: 13.493 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 5 analyzed
+   • BLIND group videos (ID11-ID20): 0 analyzed
+   • SEE group average grasping frequency: 13.49 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id1/Box Object:
+      - Video duration: 153.76s
+      - Hand detection time: 151.16s
+      - Orientation: portrait
+      - Grasping events: 1642
+      - Grasping frequency: 10.863/s
+      - Max velocity: 5.61 px/frame
+      - Most common gesture: Other
+      - Participant: ID01 (SEE group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Comfortable
+      - Grasping efficiency: 10.86 events/second
+
+   Id1/Donut Object:
+      - Video duration: 48.02s
+      - Hand detection time: 46.72s
+      - Orientation: portrait
+      - Grasping events: 789
+      - Grasping frequency: 16.889/s
+      - Max velocity: 2.18 px/frame
+      - Most common gesture: Other
+      - Participant: ID01 (SEE group)
+      - Emotion felt: Neutral (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 16.89 events/second
+
+   Id1/Pig Object:
+      - Video duration: 35.71s
+      - Hand detection time: 32.28s
+      - Orientation: portrait
+      - Grasping events: 212
+      - Grasping frequency: 6.567/s
+      - Max velocity: 5.18 px/frame
+      - Most common gesture: Other
+      - Participant: ID01 (SEE group)
+      - Emotion felt: Happiness (Intensity: Low)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 6.57 events/second
+
+   Id1/Spider Object:
+      - Video duration: 34.25s
+      - Hand detection time: 32.67s
+      - Orientation: portrait
+      - Grasping events: 656
+      - Grasping frequency: 20.079/s
+      - Max velocity: 2.57 px/frame
+      - Most common gesture: Holding
+      - Participant: ID01 (SEE group)
+      - Emotion felt: Fear (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 20.08 events/second
+
+   Id1/Toy Object:
+      - Video duration: 47.72s
+      - Hand detection time: 44.40s
+      - Orientation: portrait
+      - Grasping events: 580
+      - Grasping frequency: 13.064/s
+      - Max velocity: 2.49 px/frame
+      - Most common gesture: Other
+      - Participant: ID01 (SEE group)
+      - Emotion felt: Neutral (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 13.06 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id1/Spider (20.08 events/s)
+   • Least engaging object: Id1/Pig (6.57 events/s)
+   • Engagement ratio: 3.1x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id1/Spider: High engagement (20.1 events/s) | Survey: Fear emotion, Uncomfortable comfort
+   • Id1/Donut: High engagement (16.9 events/s) | Survey: Neutral emotion, Uncomfortable comfort
+   • Id1/Toy: Moderate engagement (13.1 events/s) | Survey: Neutral emotion, Neutral comfort
+   • Id1/Box: Moderate engagement (10.9 events/s) | Survey: Neutral emotion, Comfortable comfort
+   • Id1/Pig: Low engagement (6.6 events/s) | Survey: Happiness emotion, Very comfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 84.00 seconds
+   • Total hand detection time: 74.53 seconds
+   • Analysis date: 2025-07-02 06:42:35
+   • Object types: Id2/Box, Id2/Donut, Id2/Pig, Id2/Spider, Id2/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 1016
+   • Average grasping frequency: 10.389 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 5 analyzed
+   • BLIND group videos (ID11-ID20): 0 analyzed
+   • SEE group average grasping frequency: 10.39 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id2/Box Object:
+      - Video duration: 11.14s
+      - Hand detection time: 9.44s
+      - Orientation: portrait
+      - Grasping events: 34
+      - Grasping frequency: 3.604/s
+      - Max velocity: 2.37 px/frame
+      - Most common gesture: Other
+      - Participant: ID02 (SEE group)
+      - Emotion felt: Nervousness (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 3.60 events/second
+
+   Id2/Donut Object:
+      - Video duration: 16.11s
+      - Hand detection time: 11.85s
+      - Orientation: portrait
+      - Grasping events: 7
+      - Grasping frequency: 0.591/s
+      - Max velocity: 1.12 px/frame
+      - Most common gesture: Other
+      - Participant: ID02 (SEE group)
+      - Emotion felt: Disgust (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 0.59 events/second
+
+   Id2/Pig Object:
+      - Video duration: 11.00s
+      - Hand detection time: 9.09s
+      - Orientation: portrait
+      - Grasping events: 73
+      - Grasping frequency: 8.035/s
+      - Max velocity: 1.90 px/frame
+      - Most common gesture: Other
+      - Participant: ID02 (SEE group)
+      - Emotion felt: Happiness (Intensity: Moderate)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Comfortable
+      - Grasping efficiency: 8.04 events/second
+
+   Id2/Spider Object:
+      - Video duration: 28.88s
+      - Hand detection time: 28.07s
+      - Orientation: portrait
+      - Grasping events: 616
+      - Grasping frequency: 21.948/s
+      - Max velocity: 1.91 px/frame
+      - Most common gesture: Holding
+      - Participant: ID02 (SEE group)
+      - Emotion felt: Sadness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 21.95 events/second
+
+   Id2/Toy Object:
+      - Video duration: 16.87s
+      - Hand detection time: 16.10s
+      - Orientation: portrait
+      - Grasping events: 286
+      - Grasping frequency: 17.765/s
+      - Max velocity: 2.38 px/frame
+      - Most common gesture: Holding
+      - Participant: ID02 (SEE group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 17.77 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id2/Spider (21.95 events/s)
+   • Least engaging object: Id2/Donut (0.59 events/s)
+   • Engagement ratio: 37.1x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id2/Spider: High engagement (21.9 events/s) | Survey: Sadness emotion, Uncomfortable comfort
+   • Id2/Toy: High engagement (17.8 events/s) | Survey: Neutral emotion, Neutral comfort
+   • Id2/Pig: Low engagement (8.0 events/s) | Survey: Happiness emotion, Comfortable comfort
+   • Id2/Box: Low engagement (3.6 events/s) | Survey: Nervousness emotion, Neutral comfort
+   • Id2/Donut: Low engagement (0.6 events/s) | Survey: Disgust emotion, Uncomfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 113.15 seconds
+   • Total hand detection time: 90.35 seconds
+   • Analysis date: 2025-07-02 06:43:49
+   • Object types: Id3/Box, Id3/Donut, Id3/Pig, Id3/Spider, Id3/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 976
+   • Average grasping frequency: 12.773 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 5 analyzed
+   • BLIND group videos (ID11-ID20): 0 analyzed
+   • SEE group average grasping frequency: 12.77 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id3/Box Object:
+      - Video duration: 10.94s
+      - Hand detection time: 9.35s
+      - Orientation: portrait
+      - Grasping events: 148
+      - Grasping frequency: 15.826/s
+      - Max velocity: 1.58 px/frame
+      - Most common gesture: Other
+      - Participant: ID03 (SEE group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Comfortable
+      - Grasping efficiency: 15.83 events/second
+
+   Id3/Donut Object:
+      - Video duration: 57.89s
+      - Hand detection time: 46.66s
+      - Orientation: portrait
+      - Grasping events: 552
+      - Grasping frequency: 11.830/s
+      - Max velocity: 1.75 px/frame
+      - Most common gesture: Holding
+      - Participant: ID03 (SEE group)
+      - Emotion felt: Disgust (Intensity: Moderate)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 11.83 events/second
+
+   Id3/Pig Object:
+      - Video duration: 6.44s
+      - Hand detection time: 4.78s
+      - Orientation: portrait
+      - Grasping events: 81
+      - Grasping frequency: 16.933/s
+      - Max velocity: 1.61 px/frame
+      - Most common gesture: Holding
+      - Participant: ID03 (SEE group)
+      - Emotion felt: Happiness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 16.93 events/second
+
+   Id3/Spider Object:
+      - Video duration: 24.04s
+      - Hand detection time: 19.67s
+      - Orientation: portrait
+      - Grasping events: 9
+      - Grasping frequency: 0.458/s
+      - Max velocity: 14.67 px/frame
+      - Most common gesture: Other
+      - Participant: ID03 (SEE group)
+      - Emotion felt: Fear (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 0.46 events/second
+
+   Id3/Toy Object:
+      - Video duration: 13.84s
+      - Hand detection time: 9.88s
+      - Orientation: portrait
+      - Grasping events: 186
+      - Grasping frequency: 18.817/s
+      - Max velocity: 1.54 px/frame
+      - Most common gesture: Other
+      - Participant: ID03 (SEE group)
+      - Emotion felt: Neutral (Intensity: Moderate)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 18.82 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id3/Toy (18.82 events/s)
+   • Least engaging object: Id3/Spider (0.46 events/s)
+   • Engagement ratio: 41.1x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id3/Toy: High engagement (18.8 events/s) | Survey: Neutral emotion, Neutral comfort
+   • Id3/Pig: High engagement (16.9 events/s) | Survey: Happiness emotion, Very comfortable comfort
+   • Id3/Box: High engagement (15.8 events/s) | Survey: Neutral emotion, Comfortable comfort
+   • Id3/Donut: Moderate engagement (11.8 events/s) | Survey: Disgust emotion, Very uncomfortable comfort
+   • Id3/Spider: Low engagement (0.5 events/s) | Survey: Fear emotion, Very uncomfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 115.91 seconds
+   • Total hand detection time: 113.59 seconds
+   • Analysis date: 2025-07-02 06:45:02
+   • Object types: Id4/Box, Id4/Donut, Id4/Pig, Id4/Spider, Id4/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 1456
+   • Average grasping frequency: 12.429 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 5 analyzed
+   • BLIND group videos (ID11-ID20): 0 analyzed
+   • SEE group average grasping frequency: 12.43 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id4/Box Object:
+      - Video duration: 19.21s
+      - Hand detection time: 18.70s
+      - Orientation: portrait
+      - Grasping events: 178
+      - Grasping frequency: 9.520/s
+      - Max velocity: 10.08 px/frame
+      - Most common gesture: Other
+      - Participant: ID04 (SEE group)
+      - Emotion felt: Nervousness (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 9.52 events/second
+
+   Id4/Donut Object:
+      - Video duration: 18.61s
+      - Hand detection time: 18.51s
+      - Orientation: portrait
+      - Grasping events: 102
+      - Grasping frequency: 5.511/s
+      - Max velocity: 1.11 px/frame
+      - Most common gesture: Other
+      - Participant: ID04 (SEE group)
+      - Emotion felt: Happiness (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 5.51 events/second
+
+   Id4/Pig Object:
+      - Video duration: 18.04s
+      - Hand detection time: 17.47s
+      - Orientation: portrait
+      - Grasping events: 197
+      - Grasping frequency: 11.276/s
+      - Max velocity: 1.14 px/frame
+      - Most common gesture: Other
+      - Participant: ID04 (SEE group)
+      - Emotion felt: Happiness (Intensity: Low)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Comfortable
+      - Grasping efficiency: 11.28 events/second
+
+   Id4/Spider Object:
+      - Video duration: 23.14s
+      - Hand detection time: 22.74s
+      - Orientation: portrait
+      - Grasping events: 537
+      - Grasping frequency: 23.619/s
+      - Max velocity: 0.96 px/frame
+      - Most common gesture: Grasping
+      - Participant: ID04 (SEE group)
+      - Emotion felt: Fear (Intensity: High)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 23.62 events/second
+
+   Id4/Toy Object:
+      - Video duration: 36.91s
+      - Hand detection time: 36.17s
+      - Orientation: portrait
+      - Grasping events: 442
+      - Grasping frequency: 12.219/s
+      - Max velocity: 7.07 px/frame
+      - Most common gesture: Grasping
+      - Participant: ID04 (SEE group)
+      - Emotion felt: Sadness (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 12.22 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id4/Spider (23.62 events/s)
+   • Least engaging object: Id4/Donut (5.51 events/s)
+   • Engagement ratio: 4.3x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id4/Spider: High engagement (23.6 events/s) | Survey: Fear emotion, Uncomfortable comfort
+   • Id4/Toy: Moderate engagement (12.2 events/s) | Survey: Sadness emotion, Uncomfortable comfort
+   • Id4/Pig: Moderate engagement (11.3 events/s) | Survey: Happiness emotion, Comfortable comfort
+   • Id4/Box: Low engagement (9.5 events/s) | Survey: Nervousness emotion, Very comfortable comfort
+   • Id4/Donut: Low engagement (5.5 events/s) | Survey: Happiness emotion, Uncomfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 127.19 seconds
+   • Total hand detection time: 121.51 seconds
+   • Analysis date: 2025-07-02 06:46:16
+   • Object types: Id5/Box, Id5/Donut, Id5/Pig, Id5/Spider, Id5/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 2124
+   • Average grasping frequency: 15.503 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 5 analyzed
+   • BLIND group videos (ID11-ID20): 0 analyzed
+   • SEE group average grasping frequency: 15.50 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id5/Box Object:
+      - Video duration: 15.77s
+      - Hand detection time: 14.87s
+      - Orientation: portrait
+      - Grasping events: 165
+      - Grasping frequency: 11.100/s
+      - Max velocity: 1.76 px/frame
+      - Most common gesture: Other
+      - Participant: ID05 (SEE group)
+      - Emotion felt: Surprise (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 11.10 events/second
+
+   Id5/Donut Object:
+      - Video duration: 17.21s
+      - Hand detection time: 16.18s
+      - Orientation: portrait
+      - Grasping events: 152
+      - Grasping frequency: 9.393/s
+      - Max velocity: 0.96 px/frame
+      - Most common gesture: Other
+      - Participant: ID05 (SEE group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 9.39 events/second
+
+   Id5/Pig Object:
+      - Video duration: 21.31s
+      - Hand detection time: 20.12s
+      - Orientation: portrait
+      - Grasping events: 263
+      - Grasping frequency: 13.072/s
+      - Max velocity: 1.71 px/frame
+      - Most common gesture: Other
+      - Participant: ID05 (SEE group)
+      - Emotion felt: Happiness (Intensity: Low)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 13.07 events/second
+
+   Id5/Spider Object:
+      - Video duration: 26.81s
+      - Hand detection time: 25.74s
+      - Orientation: portrait
+      - Grasping events: 568
+      - Grasping frequency: 22.070/s
+      - Max velocity: 1.03 px/frame
+      - Most common gesture: Holding
+      - Participant: ID05 (SEE group)
+      - Emotion felt: Fear (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 22.07 events/second
+
+   Id5/Toy Object:
+      - Video duration: 46.09s
+      - Hand detection time: 44.61s
+      - Orientation: portrait
+      - Grasping events: 976
+      - Grasping frequency: 21.878/s
+      - Max velocity: 1.08 px/frame
+      - Most common gesture: Grasping
+      - Participant: ID05 (SEE group)
+      - Emotion felt: Happiness (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 21.88 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id5/Spider (22.07 events/s)
+   • Least engaging object: Id5/Donut (9.39 events/s)
+   • Engagement ratio: 2.3x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id5/Spider: High engagement (22.1 events/s) | Survey: Fear emotion, Very uncomfortable comfort
+   • Id5/Toy: High engagement (21.9 events/s) | Survey: Happiness emotion, Very comfortable comfort
+   • Id5/Pig: Moderate engagement (13.1 events/s) | Survey: Happiness emotion, Very comfortable comfort
+   • Id5/Box: Low engagement (11.1 events/s) | Survey: Surprise emotion, Neutral comfort
+   • Id5/Donut: Low engagement (9.4 events/s) | Survey: Neutral emotion, Uncomfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 68.57 seconds
+   • Total hand detection time: 62.18 seconds
+   • Analysis date: 2025-07-02 06:47:01
+   • Object types: Id6/Box, Id6/Donut, Id6/Pig, Id6/Spider, Id6/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 976
+   • Average grasping frequency: 15.363 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 5 analyzed
+   • BLIND group videos (ID11-ID20): 0 analyzed
+   • SEE group average grasping frequency: 15.36 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id6/Box Object:
+      - Video duration: 9.97s
+      - Hand detection time: 9.44s
+      - Orientation: portrait
+      - Grasping events: 77
+      - Grasping frequency: 8.160/s
+      - Max velocity: 1.16 px/frame
+      - Most common gesture: Other
+      - Participant: ID06 (SEE group)
+      - Emotion felt: Neutral (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 8.16 events/second
+
+   Id6/Donut Object:
+      - Video duration: 13.84s
+      - Hand detection time: 12.49s
+      - Orientation: portrait
+      - Grasping events: 111
+      - Grasping frequency: 8.885/s
+      - Max velocity: 1.28 px/frame
+      - Most common gesture: Other
+      - Participant: ID06 (SEE group)
+      - Emotion felt: Happiness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 8.89 events/second
+
+   Id6/Pig Object:
+      - Video duration: 19.38s
+      - Hand detection time: 17.35s
+      - Orientation: portrait
+      - Grasping events: 310
+      - Grasping frequency: 17.864/s
+      - Max velocity: 1.81 px/frame
+      - Most common gesture: Other
+      - Participant: ID06 (SEE group)
+      - Emotion felt: Happiness (Intensity: Low)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 17.86 events/second
+
+   Id6/Spider Object:
+      - Video duration: 12.04s
+      - Hand detection time: 11.31s
+      - Orientation: portrait
+      - Grasping events: 307
+      - Grasping frequency: 27.154/s
+      - Max velocity: 5.48 px/frame
+      - Most common gesture: Grasping
+      - Participant: ID06 (SEE group)
+      - Emotion felt: Disgust (Intensity: High)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 27.15 events/second
+
+   Id6/Toy Object:
+      - Video duration: 13.34s
+      - Hand detection time: 11.59s
+      - Orientation: portrait
+      - Grasping events: 171
+      - Grasping frequency: 14.753/s
+      - Max velocity: 1.70 px/frame
+      - Most common gesture: Grasping
+      - Participant: ID06 (SEE group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 14.75 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id6/Spider (27.15 events/s)
+   • Least engaging object: Id6/Box (8.16 events/s)
+   • Engagement ratio: 3.3x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id6/Spider: High engagement (27.2 events/s) | Survey: Disgust emotion, Neutral comfort
+   • Id6/Pig: Moderate engagement (17.9 events/s) | Survey: Happiness emotion, Very comfortable comfort
+   • Id6/Toy: Moderate engagement (14.8 events/s) | Survey: Neutral emotion, Uncomfortable comfort
+   • Id6/Donut: Low engagement (8.9 events/s) | Survey: Happiness emotion, Very uncomfortable comfort
+   • Id6/Box: Low engagement (8.2 events/s) | Survey: Neutral emotion, Very comfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 228.30 seconds
+   • Total hand detection time: 214.01 seconds
+   • Analysis date: 2025-07-02 06:49:26
+   • Object types: Id7/Box, Id7/Donut, Id7/Pig, Id7/Spider, Id7/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 2608
+   • Average grasping frequency: 11.834 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 5 analyzed
+   • BLIND group videos (ID11-ID20): 0 analyzed
+   • SEE group average grasping frequency: 11.83 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id7/Box Object:
+      - Video duration: 45.62s
+      - Hand detection time: 40.90s
+      - Orientation: portrait
+      - Grasping events: 742
+      - Grasping frequency: 18.140/s
+      - Max velocity: 1.78 px/frame
+      - Most common gesture: Other
+      - Participant: ID07 (SEE group)
+      - Emotion felt: Neutral (Intensity: High)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 18.14 events/second
+
+   Id7/Donut Object:
+      - Video duration: 47.75s
+      - Hand detection time: 44.71s
+      - Orientation: portrait
+      - Grasping events: 240
+      - Grasping frequency: 5.368/s
+      - Max velocity: 3.73 px/frame
+      - Most common gesture: Other
+      - Participant: ID07 (SEE group)
+      - Emotion felt: Disgust (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 5.37 events/second
+
+   Id7/Pig Object:
+      - Video duration: 40.52s
+      - Hand detection time: 37.75s
+      - Orientation: portrait
+      - Grasping events: 178
+      - Grasping frequency: 4.716/s
+      - Max velocity: 6.91 px/frame
+      - Most common gesture: Other
+      - Participant: ID07 (SEE group)
+      - Emotion felt: Surprise (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 4.72 events/second
+
+   Id7/Spider Object:
+      - Video duration: 55.49s
+      - Hand detection time: 53.98s
+      - Orientation: portrait
+      - Grasping events: 977
+      - Grasping frequency: 18.100/s
+      - Max velocity: 23.64 px/frame
+      - Most common gesture: Holding
+      - Participant: ID07 (SEE group)
+      - Emotion felt: Nervousness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 18.10 events/second
+
+   Id7/Toy Object:
+      - Video duration: 38.92s
+      - Hand detection time: 36.67s
+      - Orientation: portrait
+      - Grasping events: 471
+      - Grasping frequency: 12.845/s
+      - Max velocity: 5.42 px/frame
+      - Most common gesture: Holding
+      - Participant: ID07 (SEE group)
+      - Emotion felt: Fear (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 12.84 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id7/Box (18.14 events/s)
+   • Least engaging object: Id7/Pig (4.72 events/s)
+   • Engagement ratio: 3.8x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id7/Box: High engagement (18.1 events/s) | Survey: Neutral emotion, Very comfortable comfort
+   • Id7/Spider: High engagement (18.1 events/s) | Survey: Nervousness emotion, Very uncomfortable comfort
+   • Id7/Toy: Moderate engagement (12.8 events/s) | Survey: Fear emotion, Uncomfortable comfort
+   • Id7/Donut: Low engagement (5.4 events/s) | Survey: Disgust emotion, Very uncomfortable comfort
+   • Id7/Pig: Low engagement (4.7 events/s) | Survey: Surprise emotion, Very comfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 67.90 seconds
+   • Total hand detection time: 53.15 seconds
+   • Analysis date: 2025-07-02 06:50:12
+   • Object types: Id8/Box, Id8/Donut, Id8/Pig, Id8/Spider, Id8/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 514
+   • Average grasping frequency: 8.764 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 5 analyzed
+   • BLIND group videos (ID11-ID20): 0 analyzed
+   • SEE group average grasping frequency: 8.76 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id8/Box Object:
+      - Video duration: 11.57s
+      - Hand detection time: 9.13s
+      - Orientation: portrait
+      - Grasping events: 61
+      - Grasping frequency: 6.682/s
+      - Max velocity: 1.94 px/frame
+      - Most common gesture: Other
+      - Participant: ID08 (SEE group)
+      - Emotion felt: Nervousness (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 6.68 events/second
+
+   Id8/Donut Object:
+      - Video duration: 11.87s
+      - Hand detection time: 7.30s
+      - Orientation: portrait
+      - Grasping events: 0
+      - Grasping frequency: 0.000/s
+      - Max velocity: 1.32 px/frame
+      - Most common gesture: Other
+      - Participant: ID08 (SEE group)
+      - Emotion felt: Boredom (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 0.00 events/second
+
+   Id8/Pig Object:
+      - Video duration: 12.77s
+      - Hand detection time: 11.75s
+      - Orientation: portrait
+      - Grasping events: 121
+      - Grasping frequency: 10.299/s
+      - Max velocity: 2.28 px/frame
+      - Most common gesture: Other
+      - Participant: ID08 (SEE group)
+      - Emotion felt: Happiness (Intensity: High)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 10.30 events/second
+
+   Id8/Spider Object:
+      - Video duration: 15.97s
+      - Hand detection time: 13.37s
+      - Orientation: portrait
+      - Grasping events: 155
+      - Grasping frequency: 11.590/s
+      - Max velocity: 1.80 px/frame
+      - Most common gesture: Other
+      - Participant: ID08 (SEE group)
+      - Emotion felt: Nervousness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 11.59 events/second
+
+   Id8/Toy Object:
+      - Video duration: 15.71s
+      - Hand detection time: 11.61s
+      - Orientation: portrait
+      - Grasping events: 177
+      - Grasping frequency: 15.248/s
+      - Max velocity: 2.10 px/frame
+      - Most common gesture: Other
+      - Participant: ID08 (SEE group)
+      - Emotion felt: Happiness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 15.25 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id8/Toy (15.25 events/s)
+   • Least engaging object: Id8/Donut (0.00 events/s)
+   • Engagement ratio: 0.0x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id8/Toy: High engagement (15.2 events/s) | Survey: Happiness emotion, Neutral comfort
+   • Id8/Spider: High engagement (11.6 events/s) | Survey: Nervousness emotion, Neutral comfort
+   • Id8/Pig: Moderate engagement (10.3 events/s) | Survey: Happiness emotion, Neutral comfort
+   • Id8/Box: Low engagement (6.7 events/s) | Survey: Nervousness emotion, Very comfortable comfort
+   • Id8/Donut: Low engagement (0.0 events/s) | Survey: Boredom emotion, Very uncomfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 598.95 seconds
+   • Total hand detection time: 587.91 seconds
+   • Analysis date: 2025-07-02 06:56:55
+   • Object types: Id9/Box, Id9/Donut, Id9/Pig, Id9/Spider, Id9/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 7731
+   • Average grasping frequency: 14.614 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 5 analyzed
+   • BLIND group videos (ID11-ID20): 0 analyzed
+   • SEE group average grasping frequency: 14.61 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id9/Box Object:
+      - Video duration: 95.51s
+      - Hand detection time: 94.50s
+      - Orientation: portrait
+      - Grasping events: 1457
+      - Grasping frequency: 15.417/s
+      - Max velocity: 2.81 px/frame
+      - Most common gesture: Other
+      - Participant: ID09 (SEE group)
+      - Emotion felt: Neutral (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Comfortable
+      - Grasping efficiency: 15.42 events/second
+
+   Id9/Donut Object:
+      - Video duration: 85.73s
+      - Hand detection time: 82.55s
+      - Orientation: portrait
+      - Grasping events: 692
+      - Grasping frequency: 8.382/s
+      - Max velocity: 1.60 px/frame
+      - Most common gesture: Other
+      - Participant: ID09 (SEE group)
+      - Emotion felt: Boredom (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 8.38 events/second
+
+   Id9/Pig Object:
+      - Video duration: 139.09s
+      - Hand detection time: 137.45s
+      - Orientation: portrait
+      - Grasping events: 2393
+      - Grasping frequency: 17.409/s
+      - Max velocity: 4.55 px/frame
+      - Most common gesture: Holding
+      - Participant: ID09 (SEE group)
+      - Emotion felt: Happiness (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Comfortable
+      - Grasping efficiency: 17.41 events/second
+
+   Id9/Spider Object:
+      - Video duration: 62.53s
+      - Hand detection time: 60.38s
+      - Orientation: portrait
+      - Grasping events: 1423
+      - Grasping frequency: 23.568/s
+      - Max velocity: 5.07 px/frame
+      - Most common gesture: Grasping
+      - Participant: ID09 (SEE group)
+      - Emotion felt: Nervousness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 23.57 events/second
+
+   Id9/Toy Object:
+      - Video duration: 216.09s
+      - Hand detection time: 213.02s
+      - Orientation: portrait
+      - Grasping events: 1766
+      - Grasping frequency: 8.290/s
+      - Max velocity: 3.97 px/frame
+      - Most common gesture: Grasping
+      - Participant: ID09 (SEE group)
+      - Emotion felt: Fear (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 8.29 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id9/Spider (23.57 events/s)
+   • Least engaging object: Id9/Toy (8.29 events/s)
+   • Engagement ratio: 2.8x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id9/Spider: High engagement (23.6 events/s) | Survey: Nervousness emotion, Very uncomfortable comfort
+   • Id9/Pig: Moderate engagement (17.4 events/s) | Survey: Happiness emotion, Comfortable comfort
+   • Id9/Box: Moderate engagement (15.4 events/s) | Survey: Neutral emotion, Comfortable comfort
+   • Id9/Donut: Low engagement (8.4 events/s) | Survey: Boredom emotion, Uncomfortable comfort
+   • Id9/Toy: Low engagement (8.3 events/s) | Survey: Fear emotion, Very comfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 95.84 seconds
+   • Total hand detection time: 81.55 seconds
+   • Analysis date: 2025-07-02 06:58:02
+   • Object types: Id10/Box, Id10/Donut, Id10/Pig, Id10/Spider, Id10/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 1113
+   • Average grasping frequency: 12.215 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 5 analyzed
+   • BLIND group videos (ID11-ID20): 0 analyzed
+   • SEE group average grasping frequency: 12.22 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id10/Box Object:
+      - Video duration: 10.14s
+      - Hand detection time: 7.60s
+      - Orientation: portrait
+      - Grasping events: 28
+      - Grasping frequency: 3.683/s
+      - Max velocity: 2.11 px/frame
+      - Most common gesture: Other
+      - Participant: ID10 (SEE group)
+      - Emotion felt: Surprise (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 3.68 events/second
+
+   Id10/Donut Object:
+      - Video duration: 26.11s
+      - Hand detection time: 19.11s
+      - Orientation: portrait
+      - Grasping events: 103
+      - Grasping frequency: 5.390/s
+      - Max velocity: 0.66 px/frame
+      - Most common gesture: Other
+      - Participant: ID10 (SEE group)
+      - Emotion felt: Sadness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 5.39 events/second
+
+   Id10/Pig Object:
+      - Video duration: 15.74s
+      - Hand detection time: 14.52s
+      - Orientation: portrait
+      - Grasping events: 157
+      - Grasping frequency: 10.812/s
+      - Max velocity: 2.95 px/frame
+      - Most common gesture: Other
+      - Participant: ID10 (SEE group)
+      - Emotion felt: Happiness (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Comfortable
+      - Grasping efficiency: 10.81 events/second
+
+   Id10/Spider Object:
+      - Video duration: 19.07s
+      - Hand detection time: 16.79s
+      - Orientation: portrait
+      - Grasping events: 359
+      - Grasping frequency: 21.385/s
+      - Max velocity: 1.51 px/frame
+      - Most common gesture: Holding
+      - Participant: ID10 (SEE group)
+      - Emotion felt: Fear (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 21.39 events/second
+
+   Id10/Toy Object:
+      - Video duration: 24.78s
+      - Hand detection time: 23.53s
+      - Orientation: portrait
+      - Grasping events: 466
+      - Grasping frequency: 19.806/s
+      - Max velocity: 13.53 px/frame
+      - Most common gesture: Holding
+      - Participant: ID10 (SEE group)
+      - Emotion felt: Surprise (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 19.81 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id10/Spider (21.39 events/s)
+   • Least engaging object: Id10/Box (3.68 events/s)
+   • Engagement ratio: 5.8x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id10/Spider: High engagement (21.4 events/s) | Survey: Fear emotion, Uncomfortable comfort
+   • Id10/Toy: High engagement (19.8 events/s) | Survey: Surprise emotion, Very comfortable comfort
+   • Id10/Pig: Moderate engagement (10.8 events/s) | Survey: Happiness emotion, Comfortable comfort
+   • Id10/Donut: Low engagement (5.4 events/s) | Survey: Sadness emotion, Uncomfortable comfort
+   • Id10/Box: Low engagement (3.7 events/s) | Survey: Surprise emotion, Neutral comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 156.93 seconds
+   • Total hand detection time: 148.82 seconds
+   • Analysis date: 2025-07-02 06:59:37
+   • Object types: Id11/Box, Id11/Donut, Id11/Pig, Id11/Spider, Id11/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 2003
+   • Average grasping frequency: 13.635 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 0 analyzed
+   • BLIND group videos (ID11-ID20): 5 analyzed
+   • BLIND group average grasping frequency: 13.63 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id11/Box Object:
+      - Video duration: 29.58s
+      - Hand detection time: 28.34s
+      - Orientation: portrait
+      - Grasping events: 440
+      - Grasping frequency: 15.526/s
+      - Max velocity: 0.72 px/frame
+      - Most common gesture: Other
+      - Participant: ID11 (BLIND group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Comfortable
+      - Grasping efficiency: 15.53 events/second
+
+   Id11/Donut Object:
+      - Video duration: 32.75s
+      - Hand detection time: 31.28s
+      - Orientation: portrait
+      - Grasping events: 343
+      - Grasping frequency: 10.966/s
+      - Max velocity: 1.00 px/frame
+      - Most common gesture: Other
+      - Participant: ID11 (BLIND group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 10.97 events/second
+
+   Id11/Pig Object:
+      - Video duration: 34.41s
+      - Hand detection time: 32.68s
+      - Orientation: portrait
+      - Grasping events: 310
+      - Grasping frequency: 9.486/s
+      - Max velocity: 0.82 px/frame
+      - Most common gesture: Other
+      - Participant: ID11 (BLIND group)
+      - Emotion felt: Neutral (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Comfortable
+      - Grasping efficiency: 9.49 events/second
+
+   Id11/Spider Object:
+      - Video duration: 29.38s
+      - Hand detection time: 27.84s
+      - Orientation: portrait
+      - Grasping events: 446
+      - Grasping frequency: 16.021/s
+      - Max velocity: 0.77 px/frame
+      - Most common gesture: Other
+      - Participant: ID11 (BLIND group)
+      - Emotion felt: Disgust (Intensity: High)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 16.02 events/second
+
+   Id11/Toy Object:
+      - Video duration: 30.81s
+      - Hand detection time: 28.69s
+      - Orientation: portrait
+      - Grasping events: 464
+      - Grasping frequency: 16.175/s
+      - Max velocity: 0.85 px/frame
+      - Most common gesture: Other
+      - Participant: ID11 (BLIND group)
+      - Emotion felt: Happiness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 16.17 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id11/Toy (16.17 events/s)
+   • Least engaging object: Id11/Pig (9.49 events/s)
+   • Engagement ratio: 1.7x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id11/Toy: Moderate engagement (16.2 events/s) | Survey: Happiness emotion, Uncomfortable comfort
+   • Id11/Spider: Moderate engagement (16.0 events/s) | Survey: Disgust emotion, Uncomfortable comfort
+   • Id11/Box: Moderate engagement (15.5 events/s) | Survey: Neutral emotion, Comfortable comfort
+   • Id11/Donut: Moderate engagement (11.0 events/s) | Survey: Neutral emotion, Uncomfortable comfort
+   • Id11/Pig: Low engagement (9.5 events/s) | Survey: Neutral emotion, Comfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 137.19 seconds
+   • Total hand detection time: 120.03 seconds
+   • Analysis date: 2025-07-02 07:00:54
+   • Object types: Id12/Box, Id12/Donut, Id12/Pig, Id12/Spider, Id12/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 2081
+   • Average grasping frequency: 14.590 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 0 analyzed
+   • BLIND group videos (ID11-ID20): 5 analyzed
+   • BLIND group average grasping frequency: 14.59 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id12/Box Object:
+      - Video duration: 20.54s
+      - Hand detection time: 17.28s
+      - Orientation: portrait
+      - Grasping events: 177
+      - Grasping frequency: 10.246/s
+      - Max velocity: 0.79 px/frame
+      - Most common gesture: Other
+      - Participant: ID12 (BLIND group)
+      - Emotion felt: Nervousness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 10.25 events/second
+
+   Id12/Donut Object:
+      - Video duration: 32.88s
+      - Hand detection time: 26.72s
+      - Orientation: portrait
+      - Grasping events: 517
+      - Grasping frequency: 19.351/s
+      - Max velocity: 0.70 px/frame
+      - Most common gesture: Holding
+      - Participant: ID12 (BLIND group)
+      - Emotion felt: Disgust (Intensity: Moderate)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 19.35 events/second
+
+   Id12/Pig Object:
+      - Video duration: 12.44s
+      - Hand detection time: 11.24s
+      - Orientation: portrait
+      - Grasping events: 23
+      - Grasping frequency: 2.047/s
+      - Max velocity: 3.55 px/frame
+      - Most common gesture: Other
+      - Participant: ID12 (BLIND group)
+      - Emotion felt: Happiness (Intensity: Low)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 2.05 events/second
+
+   Id12/Spider Object:
+      - Video duration: 41.12s
+      - Hand detection time: 40.18s
+      - Orientation: portrait
+      - Grasping events: 896
+      - Grasping frequency: 22.301/s
+      - Max velocity: 0.59 px/frame
+      - Most common gesture: Holding
+      - Participant: ID12 (BLIND group)
+      - Emotion felt: Fear (Intensity: High)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 22.30 events/second
+
+   Id12/Toy Object:
+      - Video duration: 30.21s
+      - Hand detection time: 24.62s
+      - Orientation: portrait
+      - Grasping events: 468
+      - Grasping frequency: 19.005/s
+      - Max velocity: 1.25 px/frame
+      - Most common gesture: Holding
+      - Participant: ID12 (BLIND group)
+      - Emotion felt: Boredom (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 19.01 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id12/Spider (22.30 events/s)
+   • Least engaging object: Id12/Pig (2.05 events/s)
+   • Engagement ratio: 10.9x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id12/Spider: High engagement (22.3 events/s) | Survey: Fear emotion, Uncomfortable comfort
+   • Id12/Donut: High engagement (19.4 events/s) | Survey: Disgust emotion, Uncomfortable comfort
+   • Id12/Toy: High engagement (19.0 events/s) | Survey: Boredom emotion, Uncomfortable comfort
+   • Id12/Box: Low engagement (10.2 events/s) | Survey: Nervousness emotion, Neutral comfort
+   • Id12/Pig: Low engagement (2.0 events/s) | Survey: Happiness emotion, Neutral comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 237.40 seconds
+   • Total hand detection time: 230.61 seconds
+   • Analysis date: 2025-07-02 07:03:36
+   • Object types: Id13/Box, Id13/Donut, Id13/Pig, Id13/Spider, Id13/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 2875
+   • Average grasping frequency: 12.440 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 0 analyzed
+   • BLIND group videos (ID11-ID20): 5 analyzed
+   • BLIND group average grasping frequency: 12.44 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id13/Box Object:
+      - Video duration: 22.28s
+      - Hand detection time: 21.94s
+      - Orientation: portrait
+      - Grasping events: 303
+      - Grasping frequency: 13.810/s
+      - Max velocity: 1.06 px/frame
+      - Most common gesture: Other
+      - Participant: ID13 (BLIND group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 13.81 events/second
+
+   Id13/Donut Object:
+      - Video duration: 41.85s
+      - Hand detection time: 40.51s
+      - Orientation: portrait
+      - Grasping events: 282
+      - Grasping frequency: 6.961/s
+      - Max velocity: 1.88 px/frame
+      - Most common gesture: Other
+      - Participant: ID13 (BLIND group)
+      - Emotion felt: Disgust (Intensity: Moderate)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 6.96 events/second
+
+   Id13/Pig Object:
+      - Video duration: 100.31s
+      - Hand detection time: 98.67s
+      - Orientation: portrait
+      - Grasping events: 1312
+      - Grasping frequency: 13.297/s
+      - Max velocity: 2.27 px/frame
+      - Most common gesture: Other
+      - Participant: ID13 (BLIND group)
+      - Emotion felt: Surprise (Intensity: Low)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 13.30 events/second
+
+   Id13/Spider Object:
+      - Video duration: 35.75s
+      - Hand detection time: 35.08s
+      - Orientation: portrait
+      - Grasping events: 524
+      - Grasping frequency: 14.939/s
+      - Max velocity: 0.86 px/frame
+      - Most common gesture: Other
+      - Participant: ID13 (BLIND group)
+      - Emotion felt: Frustration (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 14.94 events/second
+
+   Id13/Toy Object:
+      - Video duration: 37.22s
+      - Hand detection time: 34.41s
+      - Orientation: portrait
+      - Grasping events: 454
+      - Grasping frequency: 13.192/s
+      - Max velocity: 1.49 px/frame
+      - Most common gesture: Other
+      - Participant: ID13 (BLIND group)
+      - Emotion felt: Happiness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 13.19 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id13/Spider (14.94 events/s)
+   • Least engaging object: Id13/Donut (6.96 events/s)
+   • Engagement ratio: 2.1x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id13/Spider: High engagement (14.9 events/s) | Survey: Frustration emotion, Neutral comfort
+   • Id13/Box: Moderate engagement (13.8 events/s) | Survey: Neutral emotion, Neutral comfort
+   • Id13/Pig: Moderate engagement (13.3 events/s) | Survey: Surprise emotion, Very comfortable comfort
+   • Id13/Toy: Moderate engagement (13.2 events/s) | Survey: Happiness emotion, Very comfortable comfort
+   • Id13/Donut: Low engagement (7.0 events/s) | Survey: Disgust emotion, Very uncomfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 169.30 seconds
+   • Total hand detection time: 139.22 seconds
+   • Analysis date: 2025-07-02 07:05:32
+   • Object types: Id14/Box, Id14/Donut, Id14/Pig, Id14/Spider, Id14/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 702
+   • Average grasping frequency: 5.993 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 0 analyzed
+   • BLIND group videos (ID11-ID20): 5 analyzed
+   • BLIND group average grasping frequency: 5.99 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id14/Box Object:
+      - Video duration: 21.71s
+      - Hand detection time: 16.84s
+      - Orientation: portrait
+      - Grasping events: 34
+      - Grasping frequency: 2.019/s
+      - Max velocity: 1.49 px/frame
+      - Most common gesture: Other
+      - Participant: ID14 (BLIND group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 2.02 events/second
+
+   Id14/Donut Object:
+      - Video duration: 61.36s
+      - Hand detection time: 59.34s
+      - Orientation: portrait
+      - Grasping events: 40
+      - Grasping frequency: 0.674/s
+      - Max velocity: 1.34 px/frame
+      - Most common gesture: Other
+      - Participant: ID14 (BLIND group)
+      - Emotion felt: Disgust (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 0.67 events/second
+
+   Id14/Pig Object:
+      - Video duration: 30.41s
+      - Hand detection time: 20.19s
+      - Orientation: portrait
+      - Grasping events: 48
+      - Grasping frequency: 2.378/s
+      - Max velocity: 0.83 px/frame
+      - Most common gesture: Other
+      - Participant: ID14 (BLIND group)
+      - Emotion felt: Surprise (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 2.38 events/second
+
+   Id14/Spider Object:
+      - Video duration: 33.05s
+      - Hand detection time: 29.21s
+      - Orientation: portrait
+      - Grasping events: 451
+      - Grasping frequency: 15.440/s
+      - Max velocity: 1.04 px/frame
+      - Most common gesture: Holding
+      - Participant: ID14 (BLIND group)
+      - Emotion felt: Nervousness (Intensity: High)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 15.44 events/second
+
+   Id14/Toy Object:
+      - Video duration: 22.78s
+      - Hand detection time: 13.65s
+      - Orientation: portrait
+      - Grasping events: 129
+      - Grasping frequency: 9.453/s
+      - Max velocity: 1.00 px/frame
+      - Most common gesture: Other
+      - Participant: ID14 (BLIND group)
+      - Emotion felt: Sadness (Intensity: Low)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 9.45 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id14/Spider (15.44 events/s)
+   • Least engaging object: Id14/Donut (0.67 events/s)
+   • Engagement ratio: 22.9x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id14/Spider: High engagement (15.4 events/s) | Survey: Nervousness emotion, Neutral comfort
+   • Id14/Toy: High engagement (9.5 events/s) | Survey: Sadness emotion, Uncomfortable comfort
+   • Id14/Pig: Low engagement (2.4 events/s) | Survey: Surprise emotion, Very comfortable comfort
+   • Id14/Box: Low engagement (2.0 events/s) | Survey: Neutral emotion, Neutral comfort
+   • Id14/Donut: Low engagement (0.7 events/s) | Survey: Disgust emotion, Uncomfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 364.42 seconds
+   • Total hand detection time: 303.52 seconds
+   • Analysis date: 2025-07-02 07:09:33
+   • Object types: Id15/Box, Id15/Donut, Id15/Pig, Id15/Spider, Id15/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 6445
+   • Average grasping frequency: 19.344 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 0 analyzed
+   • BLIND group videos (ID11-ID20): 5 analyzed
+   • BLIND group average grasping frequency: 19.34 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id15/Box Object:
+      - Video duration: 36.15s
+      - Hand detection time: 24.57s
+      - Orientation: portrait
+      - Grasping events: 350
+      - Grasping frequency: 14.246/s
+      - Max velocity: 4.78 px/frame
+      - Most common gesture: Other
+      - Participant: ID15 (BLIND group)
+      - Emotion felt: Confusion (Intensity: High)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 14.25 events/second
+
+   Id15/Donut Object:
+      - Video duration: 101.48s
+      - Hand detection time: 100.44s
+      - Orientation: portrait
+      - Grasping events: 2094
+      - Grasping frequency: 20.849/s
+      - Max velocity: 1.40 px/frame
+      - Most common gesture: Grasping
+      - Participant: ID15 (BLIND group)
+      - Emotion felt: Happiness (Intensity: High)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 20.85 events/second
+
+   Id15/Pig Object:
+      - Video duration: 80.00s
+      - Hand detection time: 39.45s
+      - Orientation: portrait
+      - Grasping events: 443
+      - Grasping frequency: 11.230/s
+      - Max velocity: 1.03 px/frame
+      - Most common gesture: Other
+      - Participant: ID15 (BLIND group)
+      - Emotion felt: Happiness (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 11.23 events/second
+
+   Id15/Spider Object:
+      - Video duration: 86.14s
+      - Hand detection time: 82.86s
+      - Orientation: portrait
+      - Grasping events: 2255
+      - Grasping frequency: 27.216/s
+      - Max velocity: 3.29 px/frame
+      - Most common gesture: Grasping
+      - Participant: ID15 (BLIND group)
+      - Emotion felt: Fear (Intensity: Moderate)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 27.22 events/second
+
+   Id15/Toy Object:
+      - Video duration: 60.66s
+      - Hand detection time: 56.21s
+      - Orientation: portrait
+      - Grasping events: 1303
+      - Grasping frequency: 23.182/s
+      - Max velocity: 2.97 px/frame
+      - Most common gesture: Holding
+      - Participant: ID15 (BLIND group)
+      - Emotion felt: Neutral (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 23.18 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id15/Spider (27.22 events/s)
+   • Least engaging object: Id15/Pig (11.23 events/s)
+   • Engagement ratio: 2.4x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id15/Spider: High engagement (27.2 events/s) | Survey: Fear emotion, Very uncomfortable comfort
+   • Id15/Toy: Moderate engagement (23.2 events/s) | Survey: Neutral emotion, Neutral comfort
+   • Id15/Donut: Moderate engagement (20.8 events/s) | Survey: Happiness emotion, Uncomfortable comfort
+   • Id15/Box: Low engagement (14.2 events/s) | Survey: Confusion emotion, Neutral comfort
+   • Id15/Pig: Low engagement (11.2 events/s) | Survey: Happiness emotion, Very comfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 301.13 seconds
+   • Total hand detection time: 273.89 seconds
+   • Analysis date: 2025-07-02 07:12:52
+   • Object types: Id16/Box, Id16/Donut, Id16/Pig, Id16/Spider, Id16/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 1973
+   • Average grasping frequency: 7.389 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 0 analyzed
+   • BLIND group videos (ID11-ID20): 5 analyzed
+   • BLIND group average grasping frequency: 7.39 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id16/Box Object:
+      - Video duration: 47.75s
+      - Hand detection time: 42.47s
+      - Orientation: landscape
+      - Grasping events: 247
+      - Grasping frequency: 5.815/s
+      - Max velocity: 0.98 px/frame
+      - Most common gesture: Other
+      - Participant: ID16 (BLIND group)
+      - Emotion felt: Neutral (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 5.82 events/second
+
+   Id16/Donut Object:
+      - Video duration: 64.79s
+      - Hand detection time: 60.11s
+      - Orientation: landscape
+      - Grasping events: 10
+      - Grasping frequency: 0.166/s
+      - Max velocity: 1.15 px/frame
+      - Most common gesture: Other
+      - Participant: ID16 (BLIND group)
+      - Emotion felt: Disgust (Intensity: High)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 0.17 events/second
+
+   Id16/Pig Object:
+      - Video duration: 64.53s
+      - Hand detection time: 63.18s
+      - Orientation: landscape
+      - Grasping events: 405
+      - Grasping frequency: 6.410/s
+      - Max velocity: 14.38 px/frame
+      - Most common gesture: Other
+      - Participant: ID16 (BLIND group)
+      - Emotion felt: Happiness (Intensity: High)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Comfortable
+      - Grasping efficiency: 6.41 events/second
+
+   Id16/Spider Object:
+      - Video duration: 61.09s
+      - Hand detection time: 50.16s
+      - Orientation: landscape
+      - Grasping events: 721
+      - Grasping frequency: 14.373/s
+      - Max velocity: 0.58 px/frame
+      - Most common gesture: Other
+      - Participant: ID16 (BLIND group)
+      - Emotion felt: Nervousness (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 14.37 events/second
+
+   Id16/Toy Object:
+      - Video duration: 62.96s
+      - Hand detection time: 57.96s
+      - Orientation: landscape
+      - Grasping events: 590
+      - Grasping frequency: 10.179/s
+      - Max velocity: 0.73 px/frame
+      - Most common gesture: Other
+      - Participant: ID16 (BLIND group)
+      - Emotion felt: Sadness (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 10.18 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id16/Spider (14.37 events/s)
+   • Least engaging object: Id16/Donut (0.17 events/s)
+   • Engagement ratio: 86.4x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id16/Spider: High engagement (14.4 events/s) | Survey: Nervousness emotion, Uncomfortable comfort
+   • Id16/Toy: High engagement (10.2 events/s) | Survey: Sadness emotion, Very comfortable comfort
+   • Id16/Pig: Moderate engagement (6.4 events/s) | Survey: Happiness emotion, Comfortable comfort
+   • Id16/Box: Low engagement (5.8 events/s) | Survey: Neutral emotion, Neutral comfort
+   • Id16/Donut: Low engagement (0.2 events/s) | Survey: Disgust emotion, Very uncomfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 192.22 seconds
+   • Total hand detection time: 176.02 seconds
+   • Analysis date: 2025-07-02 07:14:59
+   • Object types: Id17/Box, Id17/Donut, Id17/Pig, Id17/Spider, Id17/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 2949
+   • Average grasping frequency: 17.072 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 0 analyzed
+   • BLIND group videos (ID11-ID20): 5 analyzed
+   • BLIND group average grasping frequency: 17.07 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id17/Box Object:
+      - Video duration: 27.58s
+      - Hand detection time: 20.94s
+      - Orientation: portrait
+      - Grasping events: 482
+      - Grasping frequency: 23.014/s
+      - Max velocity: 2.30 px/frame
+      - Most common gesture: Holding
+      - Participant: ID17 (BLIND group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 23.01 events/second
+
+   Id17/Donut Object:
+      - Video duration: 28.41s
+      - Hand detection time: 27.16s
+      - Orientation: portrait
+      - Grasping events: 69
+      - Grasping frequency: 2.541/s
+      - Max velocity: 0.73 px/frame
+      - Most common gesture: Other
+      - Participant: ID17 (BLIND group)
+      - Emotion felt: Disgust (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 2.54 events/second
+
+   Id17/Pig Object:
+      - Video duration: 56.12s
+      - Hand detection time: 52.16s
+      - Orientation: portrait
+      - Grasping events: 599
+      - Grasping frequency: 11.485/s
+      - Max velocity: 1.19 px/frame
+      - Most common gesture: Other
+      - Participant: ID17 (BLIND group)
+      - Emotion felt: Happiness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 11.48 events/second
+
+   Id17/Spider Object:
+      - Video duration: 25.31s
+      - Hand detection time: 22.14s
+      - Orientation: portrait
+      - Grasping events: 557
+      - Grasping frequency: 25.156/s
+      - Max velocity: 1.11 px/frame
+      - Most common gesture: Holding
+      - Participant: ID17 (BLIND group)
+      - Emotion felt: Surprise (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 25.16 events/second
+
+   Id17/Toy Object:
+      - Video duration: 54.79s
+      - Hand detection time: 53.62s
+      - Orientation: portrait
+      - Grasping events: 1242
+      - Grasping frequency: 23.164/s
+      - Max velocity: 2.97 px/frame
+      - Most common gesture: Holding
+      - Participant: ID17 (BLIND group)
+      - Emotion felt: Frustration (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 23.16 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id17/Spider (25.16 events/s)
+   • Least engaging object: Id17/Donut (2.54 events/s)
+   • Engagement ratio: 9.9x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id17/Spider: High engagement (25.2 events/s) | Survey: Surprise emotion, Very uncomfortable comfort
+   • Id17/Toy: High engagement (23.2 events/s) | Survey: Frustration emotion, Uncomfortable comfort
+   • Id17/Box: High engagement (23.0 events/s) | Survey: Neutral emotion, Neutral comfort
+   • Id17/Pig: Low engagement (11.5 events/s) | Survey: Happiness emotion, Very comfortable comfort
+   • Id17/Donut: Low engagement (2.5 events/s) | Survey: Disgust emotion, Neutral comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 101.61 seconds
+   • Total hand detection time: 79.61 seconds
+   • Analysis date: 2025-07-02 07:16:11
+   • Object types: Id18/Box, Id18/Donut, Id18/Pig, Id18/Spider, Id18/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 96
+   • Average grasping frequency: 1.404 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 0 analyzed
+   • BLIND group videos (ID11-ID20): 5 analyzed
+   • BLIND group average grasping frequency: 1.40 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id18/Box Object:
+      - Video duration: 18.14s
+      - Hand detection time: 12.21s
+      - Orientation: portrait
+      - Grasping events: 30
+      - Grasping frequency: 2.458/s
+      - Max velocity: 1.64 px/frame
+      - Most common gesture: Other
+      - Participant: ID18 (BLIND group)
+      - Emotion felt: Nervousness (Intensity: Moderate)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Comfortable
+      - Grasping efficiency: 2.46 events/second
+
+   Id18/Donut Object:
+      - Video duration: 27.88s
+      - Hand detection time: 24.35s
+      - Orientation: portrait
+      - Grasping events: 1
+      - Grasping frequency: 0.041/s
+      - Max velocity: 0.58 px/frame
+      - Most common gesture: Other
+      - Participant: ID18 (BLIND group)
+      - Emotion felt: Disgust (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 0.04 events/second
+
+   Id18/Pig Object:
+      - Video duration: 21.74s
+      - Hand detection time: 17.22s
+      - Orientation: portrait
+      - Grasping events: 1
+      - Grasping frequency: 0.058/s
+      - Max velocity: 0.97 px/frame
+      - Most common gesture: Other
+      - Participant: ID18 (BLIND group)
+      - Emotion felt: Surprise (Intensity: Moderate)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 0.06 events/second
+
+   Id18/Spider Object:
+      - Video duration: 14.01s
+      - Hand detection time: 11.14s
+      - Orientation: portrait
+      - Grasping events: 5
+      - Grasping frequency: 0.449/s
+      - Max velocity: 0.89 px/frame
+      - Most common gesture: Other
+      - Participant: ID18 (BLIND group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 0.45 events/second
+
+   Id18/Toy Object:
+      - Video duration: 19.84s
+      - Hand detection time: 14.70s
+      - Orientation: portrait
+      - Grasping events: 59
+      - Grasping frequency: 4.013/s
+      - Max velocity: 0.91 px/frame
+      - Most common gesture: Other
+      - Participant: ID18 (BLIND group)
+      - Emotion felt: Frustration (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 4.01 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id18/Toy (4.01 events/s)
+   • Least engaging object: Id18/Donut (0.04 events/s)
+   • Engagement ratio: 97.7x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id18/Toy: High engagement (4.0 events/s) | Survey: Frustration emotion, Uncomfortable comfort
+   • Id18/Box: High engagement (2.5 events/s) | Survey: Nervousness emotion, Comfortable comfort
+   • Id18/Spider: Low engagement (0.4 events/s) | Survey: Neutral emotion, Uncomfortable comfort
+   • Id18/Pig: Low engagement (0.1 events/s) | Survey: Surprise emotion, Neutral comfort
+   • Id18/Donut: Low engagement (0.0 events/s) | Survey: Disgust emotion, Uncomfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 254.64 seconds
+   • Total hand detection time: 114.44 seconds
+   • Analysis date: 2025-07-02 07:18:38
+   • Object types: Id19/Box, Id19/Donut, Id19/Pig, Id19/Spider, Id19/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 802
+   • Average grasping frequency: 6.803 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 0 analyzed
+   • BLIND group videos (ID11-ID20): 5 analyzed
+   • BLIND group average grasping frequency: 6.80 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id19/Box Object:
+      - Video duration: 133.19s
+      - Hand detection time: 18.01s
+      - Orientation: landscape
+      - Grasping events: 117
+      - Grasping frequency: 6.496/s
+      - Max velocity: 1.00 px/frame
+      - Most common gesture: Other
+      - Participant: ID19 (BLIND group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Neutral
+      - Grasping efficiency: 6.50 events/second
+
+   Id19/Donut Object:
+      - Video duration: 33.31s
+      - Hand detection time: 21.61s
+      - Orientation: landscape
+      - Grasping events: 30
+      - Grasping frequency: 1.388/s
+      - Max velocity: 0.56 px/frame
+      - Most common gesture: Other
+      - Participant: ID19 (BLIND group)
+      - Emotion felt: Disgust (Intensity: High)
+      - Familiarity: Somewhat familiar
+      - Comfort during grasping: Very uncomfortable
+      - Grasping efficiency: 1.39 events/second
+
+   Id19/Pig Object:
+      - Video duration: 25.51s
+      - Hand detection time: 20.51s
+      - Orientation: landscape
+      - Grasping events: 108
+      - Grasping frequency: 5.266/s
+      - Max velocity: 0.66 px/frame
+      - Most common gesture: Other
+      - Participant: ID19 (BLIND group)
+      - Emotion felt: Surprise (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Comfortable
+      - Grasping efficiency: 5.27 events/second
+
+   Id19/Spider Object:
+      - Video duration: 39.12s
+      - Hand detection time: 32.28s
+      - Orientation: landscape
+      - Grasping events: 275
+      - Grasping frequency: 8.520/s
+      - Max velocity: 22.38 px/frame
+      - Most common gesture: Other
+      - Participant: ID19 (BLIND group)
+      - Emotion felt: Nervousness (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 8.52 events/second
+
+   Id19/Toy Object:
+      - Video duration: 23.51s
+      - Hand detection time: 22.03s
+      - Orientation: landscape
+      - Grasping events: 272
+      - Grasping frequency: 12.346/s
+      - Max velocity: 1.51 px/frame
+      - Most common gesture: Other
+      - Participant: ID19 (BLIND group)
+      - Emotion felt: Happiness (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 12.35 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id19/Toy (12.35 events/s)
+   • Least engaging object: Id19/Donut (1.39 events/s)
+   • Engagement ratio: 8.9x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id19/Toy: High engagement (12.3 events/s) | Survey: Happiness emotion, Uncomfortable comfort
+   • Id19/Spider: High engagement (8.5 events/s) | Survey: Nervousness emotion, Uncomfortable comfort
+   • Id19/Box: Moderate engagement (6.5 events/s) | Survey: Neutral emotion, Neutral comfort
+   • Id19/Pig: Low engagement (5.3 events/s) | Survey: Surprise emotion, Comfortable comfort
+   • Id19/Donut: Low engagement (1.4 events/s) | Survey: Disgust emotion, Very uncomfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
+
+
+ENHANCED HAND MOVEMENT ANALYSIS REPORT
+==================================================
+
+Analysis Overview:
+   • Total objects analyzed: 5
+   • Total video duration: 251.91 seconds
+   • Total hand detection time: 194.75 seconds
+   • Analysis date: 2025-07-02 07:21:21
+   • Object types: Id20/Box, Id20/Donut, Id20/Pig, Id20/Spider, Id20/Toy
+
+Enhanced Grasping Analysis:
+   • Total grasping events: 3315
+   • Average grasping frequency: 14.403 events/second
+
+Movement Category System (3 Categories - LLM Optimized):
+   • Category 1 - Grasping: High pressure, tight grip contact
+   • Category 2 - Holding: Object manipulation, moderate grip
+   • Category 3 - Other: All non-contact movements (gestures, pointing, etc.)
+
+Survey Integration Summary:
+   • SEE group videos (ID01-ID10): 0 analyzed
+   • BLIND group videos (ID11-ID20): 5 analyzed
+   • BLIND group average grasping frequency: 14.40 events/s
+
+Per-Object Results with Survey Integration:
+
+   Id20/Box Object:
+      - Video duration: 28.54s
+      - Hand detection time: 21.38s
+      - Orientation: portrait
+      - Grasping events: 194
+      - Grasping frequency: 9.072/s
+      - Max velocity: 1.13 px/frame
+      - Most common gesture: Other
+      - Participant: ID20 (BLIND group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 9.07 events/second
+
+   Id20/Donut Object:
+      - Video duration: 36.81s
+      - Hand detection time: 25.74s
+      - Orientation: portrait
+      - Grasping events: 135
+      - Grasping frequency: 5.245/s
+      - Max velocity: 0.93 px/frame
+      - Most common gesture: Other
+      - Participant: ID20 (BLIND group)
+      - Emotion felt: Disgust (Intensity: Moderate)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 5.24 events/second
+
+   Id20/Pig Object:
+      - Video duration: 51.76s
+      - Hand detection time: 46.20s
+      - Orientation: portrait
+      - Grasping events: 503
+      - Grasping frequency: 10.887/s
+      - Max velocity: 15.03 px/frame
+      - Most common gesture: Other
+      - Participant: ID20 (BLIND group)
+      - Emotion felt: Happiness (Intensity: High)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 10.89 events/second
+
+   Id20/Spider Object:
+      - Video duration: 78.53s
+      - Hand detection time: 64.61s
+      - Orientation: portrait
+      - Grasping events: 1766
+      - Grasping frequency: 27.334/s
+      - Max velocity: 0.88 px/frame
+      - Most common gesture: Holding
+      - Participant: ID20 (BLIND group)
+      - Emotion felt: Boredom (Intensity: High)
+      - Familiarity: Not familiar at all
+      - Comfort during grasping: Uncomfortable
+      - Grasping efficiency: 27.33 events/second
+
+   Id20/Toy Object:
+      - Video duration: 56.26s
+      - Hand detection time: 36.81s
+      - Orientation: portrait
+      - Grasping events: 717
+      - Grasping frequency: 19.477/s
+      - Max velocity: 0.95 px/frame
+      - Most common gesture: Holding
+      - Participant: ID20 (BLIND group)
+      - Emotion felt: Neutral (Intensity: Low)
+      - Familiarity: Very familiar
+      - Comfort during grasping: Very comfortable
+      - Grasping efficiency: 19.48 events/second
+
+Object-Specific Analysis Insights:
+   • Most engaging object: Id20/Spider (27.33 events/s)
+   • Least engaging object: Id20/Donut (5.24 events/s)
+   • Engagement ratio: 5.2x difference between most/least engaging objects
+
+Object-Specific Behavior Patterns with Survey Correlation:
+   • Id20/Spider: High engagement (27.3 events/s) | Survey: Boredom emotion, Uncomfortable comfort
+   • Id20/Toy: High engagement (19.5 events/s) | Survey: Neutral emotion, Very comfortable comfort
+   • Id20/Pig: Low engagement (10.9 events/s) | Survey: Happiness emotion, Very comfortable comfort
+   • Id20/Box: Low engagement (9.1 events/s) | Survey: Neutral emotion, Very comfortable comfort
+   • Id20/Donut: Low engagement (5.2 events/s) | Survey: Disgust emotion, Uncomfortable comfort
+
+LLM Analysis Optimization Notes:
+   • 3-category movement system: Grasping, Holding, Other
+   • Hand detection time used instead of total video duration
+   • Survey data integrated for participant analysis
+   • SEE vs BLIND group comparison available
+   • Object-specific emotional and comfort responses included
+   • Engagement levels based on grasping frequency relative to average
+   • Analysis optimized for LLM correlation and scientific research
